@@ -25,5 +25,11 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        val btnContacts = findViewById<Button>(R.id.btn_Contacts)
+        btnContacts.setOnClickListener {
+            val intent = Intent(this, activity_contacts::class.java)
+            startActivity(intent)
+        }
+
     }
 }
