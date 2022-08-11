@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Teatro-Marcelo-Denny-app</string>
+    <string name="txt_selected_image">Imagem a ser selecionada pelo usuário</string>
+    <string name="txt_ImageSelected">Selecione uma Imagem</string>
+    <string name="txt_take_picture">Tirar uma foto</string>
 </resources>

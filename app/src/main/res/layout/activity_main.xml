@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
+
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
@@ -11,6 +12,7 @@
         android:id="@+id/btn_setEvent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:text="Set Event"
         android:padding="10dp"
         android:layout_margin="20dp"/>
@@ -18,8 +20,17 @@
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_Contacts"
         android:layout_width="match_parent"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:text="Contacts"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_Images"
+        android:layout_width="match_parent"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Images"/>
 
 </LinearLayout>

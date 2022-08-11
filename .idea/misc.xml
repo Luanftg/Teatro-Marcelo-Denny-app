@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Luan Fonseca/AndroidStudioProjects/TeatroMarceloDennyapp/app/src/main/res/drawable/image.xml" value="0.1065" />
         <entry key="..\:/Users/Luan Fonseca/AndroidStudioProjects/TeatroMarceloDennyapp/app/src/main/res/layout/activity_contacts.xml" value="0.196875" />
+        <entry key="..\:/Users/Luan Fonseca/AndroidStudioProjects/TeatroMarceloDennyapp/app/src/main/res/layout/activity_images.xml" value="0.1" />
         <entry key="..\:/Users/Luan Fonseca/AndroidStudioProjects/TeatroMarceloDennyapp/app/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
         <entry key="..\:/Users/Luan Fonseca/AndroidStudioProjects/TeatroMarceloDennyapp/app/src/main/res/layout/contact_view.xml" value="0.196875" />
       </map>
