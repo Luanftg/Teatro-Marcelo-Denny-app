@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         style="@style/Widget.AppCompat.Button.Colored"
-        android:text="Set Event"
+        android:text="@string/txt_setEvent"
         android:padding="10dp"
         android:layout_margin="20dp"/>
 
@@ -23,7 +23,7 @@
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
-        android:text="Contacts"/>
+        android:text="@string/txt_contacts"/>
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_Images"
@@ -31,6 +31,14 @@
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
-        android:text="Images"/>
+        android:text="@string/txt_image"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_Maps"
+        android:layout_width="match_parent"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/txtMAp"/>
 
 </LinearLayout>

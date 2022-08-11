@@ -3,4 +3,9 @@
     <string name="txt_selected_image">Imagem a ser selecionada pelo usuário</string>
     <string name="txt_ImageSelected">Selecione uma Imagem</string>
     <string name="txt_take_picture">Tirar uma foto</string>
+    <string name="title_activity_map">activity_map</string>
+    <string name="txt_contacts">Contacts</string>
+    <string name="txt_image">Images</string>
+    <string name="txtMAp">Maps</string>
+    <string name="txt_setEvent">Set Event</string>
 </resources>

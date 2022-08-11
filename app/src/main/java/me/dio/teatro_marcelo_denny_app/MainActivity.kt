@@ -36,5 +36,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, activity_images::class.java)
             startActivity(intent)
         }
+
+        val btnMap = findViewById<Button>(R.id.btn_Maps)
+        btnMap.setOnClickListener {
+            val intent = Intent(this, activity_map::class.java)
+            startActivity(intent)
+        }
     }
 }
